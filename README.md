@@ -21,3 +21,11 @@ I am an EC Graduate. I am a Software Engineer with the problem-solving ability a
 - 📝 [Resume](https://drive.google.com/file/d/1xzA_dGG0BYGg6Uo8Os1wW3vEueDRTaKp/view?usp=sharing)
 
 
+#### I'm currently learning:
+- ReactJS for the frontend.
+- NodeJS for the backend.
+
+### You can reach to me:
+- Connect with me [LinkedIn](https://www.linkedin.com/in/shrishti-agarwal-35877a149/)
+- Or just [say HELLO !](mailto:shrishtiagarwal21@gmail.com)
+
