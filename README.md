@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me
 I am an EC Graduate. I am a Software Engineer with the problem-solving ability and consistent enthusiasm for grasping new technologies, skills, and algorithms having an utmost fascination for frontend, backend, programming, and neural networks.
-- 📝 [Resume](https://drive.google.com/file/d/11KSNgFe_CdxFY8dQas3Vy3AxbpF3RnyK/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1iZAunw1S0I8dGpIGCYkjKHW-skPQxJRs/view)
 
 
 #### I'm currently learning:
